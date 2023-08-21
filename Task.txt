@@ -1,0 +1,12 @@
+ESP32 Based Project
+
+Topic: IoT Weather Station
+
+Instructions:
+Create an ESP32-based weather station that connects to a Wi-Fi network and fetches real-time weather data from an online API (e.g., OpenWeatherMap). Display the temperature, humidity, and weather condition (e.g., sunny, cloudy, rainy) on an OLED display. Additionally, implement a feature to send the weather data to a cloud server (e.g., Thingspeak) for data logging.
+
+Simulation Example:
+Use the ESP32 simulator in Tinkercad or other virtual platforms that support ESP32 development to create the circuit and program the ESP32.
+
+Expected Result:
+The simulated ESP32 should connect to the Wi-Fi network, fetch weather data from the API, and display the temperature, humidity, and weather condition on the OLED display. The data should also be sent to the cloud server for data logging.
